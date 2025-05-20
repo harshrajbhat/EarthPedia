@@ -14,7 +14,7 @@ export const HeroSection = ()=>{
         Sort, search and filter through countries to find details.
       </p>
       <button className="btn btn-darken btn-inline bg-white-box">
-        <NavLink to="/country"> Start Exploring </NavLink> <FaLongArrowAltRight />
+        <NavLink to="/country" className="start" > Start Exploring </NavLink> <FaLongArrowAltRight />
       </button>
       </div>
 
