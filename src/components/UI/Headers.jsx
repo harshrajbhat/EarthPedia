@@ -18,7 +18,7 @@ export const Headers = () => {
             </NavLink>
           </div>
 
-          <nav>
+          <nav >
             <ul>
               <li>
                 <NavLink to="/">
